@@ -39,8 +39,8 @@
 
   ### Questions
 
-  * Carrpw
-  * Paul Carr
-  * pwcarr15@gmail.com
-  * https://github.com/Carrpw/prework-about-me
+  * GitHub profile name: Carrpw
+  * Name: Paul Carr
+  * Email: pwcarr15@gmail.com
+  * Repo link for this project: https://github.com/Carrpw/prework-about-me
 
